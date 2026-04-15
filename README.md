@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="left">
-  <a href="https://github.com/ipaler/ipaler">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ipaler&theme=github" />
+  <a href="https://github.com/kpfy/kpfy">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kpfy&theme=github" />
   </a>
 </div>
