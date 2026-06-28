@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**ipaler/ipaler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**kpby/kpby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="left">
-  <a href="https://github.com/kpfy/kpfy">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kpfy&theme=github" />
+  <a href="https://github.com/kpby/kpby">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kpby&theme=github" />
   </a>
 </div>
